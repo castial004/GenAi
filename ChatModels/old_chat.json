@@ -1,0 +1,4 @@
+[
+    {"type":"human","message":"i want to request refund for my order #123"},
+    {"type":"ai","message":"your refund has been initiated and will be processed in 3-5 working days"}
+]
